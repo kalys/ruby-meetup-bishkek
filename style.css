@@ -1,0 +1,15 @@
+body {
+    color: #403d3a;
+}
+.first {
+  background-color: red;
+}
+
+.content > pre {
+  font-size: 200%;
+  background-color: #e5d9cf;
+}
+
+h1 {
+    color: #063540;
+}
